@@ -1,0 +1,16 @@
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.exe
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.deps.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.runtimeconfig.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.runtimeconfig.dev.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.csproj.AssemblyReference.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.AssemblyInfoInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.AssemblyInfo.cs
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\refint\nombre_magique.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.genruntimeconfig.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\nombre_magique\nombre_magique\obj\Debug\net5.0\ref\nombre_magique.dll
